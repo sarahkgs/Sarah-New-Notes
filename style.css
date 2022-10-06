@@ -33,6 +33,11 @@
   color: blue;
 }
 
+img src{
+  display: flex;
+  justify-content: center;
+}
+
 div>p{
   margin-left: 200px;
 }
